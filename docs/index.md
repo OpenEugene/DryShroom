@@ -1,5 +1,3 @@
 # DryShroom
 
-![dryshroom](https://user-images.githubusercontent.com/311063/73235880-0aebdd00-4145-11ea-86e4-540c46e27124.jpg)
-
-
+![dryshroom](https://user-images.githubusercontent.com/311063/73236051-de849080-4145-11ea-9084-9e63df6ddb3d.png)
