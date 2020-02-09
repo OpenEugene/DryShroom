@@ -1,2 +1,2 @@
-# DryShroom
-The DryShroom Institute.  Building a dryer tomorrow today.
+# Giant Mushroom
+Some things art build to last.
